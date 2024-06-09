@@ -71,8 +71,8 @@ JS vite.config.js
 
 Development Notes:-
 
-HTML: Basic structure of the application.
-Tailwind CSS: Used for styling the application.
-JavaScript: For the application's logic.
-React: Framework used to build the UI components.
-Vite: Build tool for development and production builds.
+1) HTML: Basic structure of the application.
+2) Tailwind CSS: Used for styling the application.
+3) JavaScript: For the application's logic.
+4) React: Framework used to build the UI components.
+5) Vite: Build tool for development and production builds.
